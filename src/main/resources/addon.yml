@@ -1,0 +1,11 @@
+## YAML Template.
+---
+name: SpoutcraftCoords
+version: 1.${build.number}
+description: SpoutCoords client addon.
+authors: [_infina_]
+
+
+main: com.cbouton.spoutcraftcoords.SpoutcraftCoords
+
+mode: BOTH
